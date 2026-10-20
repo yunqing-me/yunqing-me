@@ -1,6 +1,6 @@
-# Yunqing Zhao
+# Hello! 👋
 
-I'm an AI researcher based in Singapore, working on multimodal models, agents, and media generation.
+I am *Yunqing Zhao*, I work on multimodal models / agents.
 
 My research asks how models learn from limited data, how they hold up against untrusted or adversarial inputs, and how they use tools to gather evidence before they answer.
 
@@ -19,3 +19,5 @@ My research asks how models learn from limited data, how they hold up against un
 - [**ThinkGen**](https://github.com/jiaosiyuu/ThinkGen) — Reasoning for visual generation. *CVPR*
   
 - [**Pistis Tech report**](https://pististeam.github.io/) — Multimodal foundation and reasoning models, agents and long-horizon tasks. *Tech Report*
+
+### You can checkout additional details [**Here**](https://yunqing-me.github.io).
