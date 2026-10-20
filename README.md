@@ -6,7 +6,7 @@ My research asks how models learn from limited data, how they hold up against un
 
 ### Selected works
 
-- [**CodeDanc**e](https://github.com/CodeDance-VL/CodeDance) — Think with image through code, with adaptive tool use. *CVPR*
+- [**CodeDance**](https://github.com/CodeDance-VL/CodeDance) — Think with image through code, with adaptive tool use. *CVPR*
 
 - [**GenLIP**](https://github.com/YanFangCS/GenLIP) — Generative multimodal pre-training. *ECCV*
 
